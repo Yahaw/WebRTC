@@ -24,6 +24,8 @@
     view.backgroundColor = [UIColor orangeColor];
     textField.rightView = view;
     textField.rightViewMode = UITextFieldViewModeAlways;
+    
+    NSLog(@"你说呢");
 }
 
 
