@@ -26,6 +26,10 @@
     textField.rightViewMode = UITextFieldViewModeAlways;
     
     NSLog(@"你说呢");
+    
+    
+    //添加修改内容
+    NSLog(@"已经修改了");
 }
 
 
