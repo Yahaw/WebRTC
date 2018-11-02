@@ -32,6 +32,12 @@
     NSLog(@"已经修改了");
 }
 
+- (void)newFunc {
+    
+    
+    
+}
+
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
