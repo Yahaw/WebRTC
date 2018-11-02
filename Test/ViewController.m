@@ -24,15 +24,12 @@
     view.backgroundColor = [UIColor orangeColor];
     textField.rightView = view;
     textField.rightViewMode = UITextFieldViewModeAlways;
-<<<<<<< HEAD
     
     NSLog(@"你说呢");
     
     
     //添加修改内容
     NSLog(@"已经修改了");
-=======
->>>>>>> parent of 93c0877... 文件更新测试
 }
 
 
